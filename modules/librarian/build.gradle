@@ -1,0 +1,11 @@
+apply plugin:'com.axelor.app-module'
+
+axelor {
+    title ='Librarian Management System'
+    version "0.1.0"
+    description ""
+    removable = true
+}
+
+dependencies {
+}
